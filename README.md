@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm 藤嶋 (Fujishima)
 
-<!--
-**FUJI0213020x/FUJI0213020x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+I'm a **Health-first Security Engineer** — building systems that protect both **people and data**.
 
-Here are some ideas to get you started:
+🔐 I focus on:
+- Zero Trust Architecture
+- Privacy by Design
+- Secure Health-Tech solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mission
+Protecting health means protecting information.
+
+## 🛠 Skills & Interests
+- Security Engineering
+- Risk Modeling
+- Secure Data Design
+- Health Data Privacy
+
+## 🔗 Let’s Connect
+- Blog : https://seclabdotblog.wordpress.com/
+- X : https://x.com/FUJI0213020x
